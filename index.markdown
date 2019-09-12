@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Coming Soon](/assets/comingsoon.png)
+![Coming Soon]({{ site.url }}/assets/comingsoon.png)
 
 Hello!
 
