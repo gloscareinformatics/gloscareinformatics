@@ -10,9 +10,6 @@ Hello!
 We are really excited to announce that Glos Care Informatics will be launching
 this November.
 
-We'll feed your mind and your body with a number of guest speakers lining up to
-come and talk to us.
-
 Our first event will be on November 12th from 19:00 - 21:00 (venue TBC) and then
 usually on the 2nd Tuesday of the month onwards.
 
