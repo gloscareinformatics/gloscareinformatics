@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a welcoming community and invite any interested health and care staff to
+join us. Some of us have professional roles and responsibilities for informatics
+in our day jobs and other are interested in finding out more.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We welcome students and trainees as well, all we ask is politeness and commitment
+to attend if you book to one of our events or give us as much notice as possible
+if you are unable.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Many thanks,
 
-
-[jekyll-organization]: https://github.com/jekyll
+Glos Care Informatics

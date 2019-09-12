@@ -1,29 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Glos Care Informatics!"
 date:   2019-09-12 20:45:08 +0100
-categories: jekyll update
+categories: events update
+published: false
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello!
 
-Jekyll requires blog post files to be named according to the following format:
+We are really excited to announce that Glos Care Informatics will be launching
+this November.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+We'll feed your mind and your body with a number of guest speakers lining up to
+come and talk to us.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our first event will be on November 12th from 19:00 - 21:00 (venue TBC) and then
+usually on the 2nd Tuesday of the month onwards.
 
-Jekyll also offers powerful support for code snippets:
+I hope to be able to announce our first speakers shortly but we are a community so
+if there are people you want to hear from please let us know and we'll invite them.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Stay tuned for more information coming soon.
