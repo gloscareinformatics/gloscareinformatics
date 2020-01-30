@@ -7,8 +7,6 @@ layout: home
 
 Hello!
 
-We are really excited to announce that Glos Care Informatics will be launching
-this November.
+We are really excited to announce that Glos Care Informatics will be holding it’s second event on 11th February with Di Bullman from NHS Digital’s Building A Digital Ready Workforce programme.
 
-Our first event will be on **November 12th from 19:00 - 21:00** and then
-usually on the 2nd Tuesday of the month onwards.
+Further events are planned for the 2nd Tuesday of the month onwards.
