@@ -5,10 +5,12 @@
 layout: home
 ---
 
-Hello!
+Set the agenda, develop skills and build your network with fellow health and care professionals involved in Gloucestershire’s technology, data and digital programmes.
 
-We are really excited to announce that Glos Care Informatics will be launching
-this November.
+Join our community of Health and Care professionals for a networking meal, inspirational talk and group debate.
+ 
+This is open to clinicians and healthcare professionals with an interest in Digital Transformation.
 
-Our first event will be on **November 12th from 19:00 - 21:00** and then
+
+Our second event will be on **Tuesday, 11th February from 19:00 - 21:00** and then
 usually on the 2nd Tuesday of the month onwards.
